@@ -1,3 +1,4 @@
 test
 on debug status
 push
+pull
